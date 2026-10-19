@@ -1,0 +1,41 @@
+
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Compiled files and libraries
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Qt Creator user-specific files
+*.user
+*.pro.user
+CMakeLists.txt.user*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
